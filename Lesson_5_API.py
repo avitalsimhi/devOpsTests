@@ -11,3 +11,5 @@ results = data['USD_PHP']
 # USD_ILS = results['USD_ILS']
 # val = USD_ILS['val']
 print(results)
+print(results)
+print(results)
